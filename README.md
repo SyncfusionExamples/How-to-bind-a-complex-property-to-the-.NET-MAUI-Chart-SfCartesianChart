@@ -1,9 +1,10 @@
 # How-to-bind-a-complex-property-to-the-.NET-MAUI-Chart-SfCartesianChart
 This sample demonstrate how to bind a complex property in.NET MAUI Chart (SfCartesianChart)
 The .NET MAUI Chart provides support for binding the complex property in Cartesian chart. The complex property binding feature enables you to access nested object reference property values to render the chart segment. This article explains how to bind the complex property in the SfCartesianChart, as shown in the following code example.
-````
+
 ##[Xaml]
-  <ContentPage.BindingContext>
+````
+    <ContentPage.BindingContext>
         <local:ViewModel/>
     </ContentPage.BindingContext>
     <chart:SfCartesianChart>
@@ -41,8 +42,8 @@ The .NET MAUI Chart provides support for binding the complex property in Cartesi
                           ShowDataLabels="True" />
     </chart:SfCartesianChart>
 ````
-````
 ##[C#]
+````
 SfCartesianChart chart = new SfCartesianChart();
 
 chart.BindingContext = new ViewModel();
@@ -101,7 +102,7 @@ chart.BindingContext = new ViewModel();
 
 ##Output
 
-
+![CurrentOutput](https://user-images.githubusercontent.com/105482474/210162317-8d8f131a-829e-4793-84b2-628702d22b42.png)
 
 ##See Also
 
