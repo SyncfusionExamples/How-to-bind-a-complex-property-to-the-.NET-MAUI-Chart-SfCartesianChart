@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31611.283
+VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Complex_Binding", "Complex_Binding\Complex_Binding.csproj", "{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex_Binding", "Complex_Binding\Complex_Binding.csproj", "{34DBBB23-B8D5-4048-9DF8-524557EB2B73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,17 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4C1FFCA-E857-4E04-AAD3-7663A766D4CD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{34DBBB23-B8D5-4048-9DF8-524557EB2B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DBBB23-B8D5-4048-9DF8-524557EB2B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DBBB23-B8D5-4048-9DF8-524557EB2B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DBBB23-B8D5-4048-9DF8-524557EB2B73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+		SolutionGuid = {14FDE28B-FF3C-4A6C-A8F9-5FEABFC8BA0F}
 	EndGlobalSection
 EndGlobal
