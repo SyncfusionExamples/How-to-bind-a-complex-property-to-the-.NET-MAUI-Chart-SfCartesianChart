@@ -1,9 +1,10 @@
-﻿namespace Complex_Binding;
-
-public partial class AppShell : Shell
+﻿namespace Complex_Binding
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
 }
